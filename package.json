@@ -22,7 +22,8 @@
   },
   "now": {
     "name": "list-anything",
-    "alias": "list-anything.now.sh"
+    "alias": "list-anything",
+	"dotenv": true
   },
   "dependencies": {
     "bcrypt": "^1.0.3",
